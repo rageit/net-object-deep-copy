@@ -1,1 +1,1 @@
-﻿
+﻿This does a deep copy of the object. Works for complex types as well.
